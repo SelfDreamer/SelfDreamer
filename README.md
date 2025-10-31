@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontSize=0&fontAlign=28&fontAlignY=44&animation=fadeIn">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontSize=0&fontAlign=28&fontAlignY=44&animation=fadeIn">
+</div>
 
 <div align="justify">
   <p align="left">
@@ -67,4 +69,5 @@
     </div>
   </details>
 </div>
+
 
