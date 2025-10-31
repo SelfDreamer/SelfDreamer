@@ -33,10 +33,8 @@
     <h2></h2>
     <p align="center">
       <samp>
-        [ <a href="https://raexera.me/about">about me</a> .
-        <a href="https://raexera.me/projects">projects</a> .
-        <a href="mailto:raexera@gmail.com">contact</a> .
-        <a href="https://github.com/sponsors/raexera">sponsor</a> ]
+        [ <a href="https://SelfDreamer.github.io">about me</a>
+         ]
       </samp>
     </p>
     <h2></h2>
@@ -67,6 +65,3 @@
     </div>
   </details>
 </div>
-
-<button> Hola </button>
-
