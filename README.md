@@ -75,7 +75,10 @@
 </div>
 
 
-![snake gif](https://github.com/SelfDreamer/SelfDreamer/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/SelfDreamer/SelfDreamer/blob/output/github-snake-dark.svg">
+</div>
+
 
 
 
