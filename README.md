@@ -75,6 +75,7 @@
 </div>
 
 
+![snake gif](https://github.com/SelfDreamer/SelfDreamer/blob/output/github-snake-dark.svg)
 
 
 
