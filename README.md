@@ -70,6 +70,9 @@
   </details>
 </div>
 
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=White&section=footer&textBg=false&reversal=false" />
+</div>
 
 
 
