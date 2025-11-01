@@ -71,15 +71,11 @@
 </div>
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&textBg=false&reversal=false"/>
-</div>
-
-
-<div align="center">
   <img src="https://github.com/SelfDreamer/SelfDreamer/blob/output/github-snake-dark.svg">
 </div>
 
-
-
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&textBg=false&reversal=false"/>
+</div>
 
 
