@@ -13,7 +13,7 @@
       <b>
         Welcome
         <br />
-        Hey,what's up guys? I'm Bianca. 18yo & i do penetration testing, from Perú by the way, and this **README.md** will be updated
+        Hey,what's up guys? I'm Bianca ❤️🏳️‍⚧️. 18yo & i do penetration testing, from Perú by the way, and this **README.md** will be updated
      </b>
       <br />
       <img
