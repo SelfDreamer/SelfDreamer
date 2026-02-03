@@ -13,8 +13,8 @@
       <b>
         Welcome
         <br />
-        I'm dreamer, a normal Penetration tester.
-      </b>
+        Hey,what's up guys? I'm Bianca. 18yo & i do penetration testing, from Perú by the way, and this **README.md** will be updated
+     </b>
       <br />
       <img
         src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=800&lines=Cibersecurity+enthusiast+and+hacking+web+lover."
